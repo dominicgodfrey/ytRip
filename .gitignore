@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+tracks/
+settings.json
+ytRip.log
+ffmpeg-*/
+yt-dlp-master/
